@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script:wght@700&family=Great+Vibes&family=Heebo:wght@500&family=Satisfy&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card2.css");
+
+body {
+	font-family: 'Courgette', cursive;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
